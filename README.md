@@ -6,3 +6,5 @@ Tablero miro:
 Integrantes:
 - Simón Pedro
 - Rojas Martín
+- Magali Gallardo
+- Lucas Rodriguez 
